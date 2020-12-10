@@ -2,11 +2,13 @@
 **Roadmap to greatness**
 
 Initial setup:
-1.  Webpack.
-2. Babel.js and Typescript.
-3. Webpack development server.
-4. Pixi.js.
-5. Unit tests?
+~~1. Webpack.~~
+~~2. Webpack development server with hot reload.~~
+~~3. Babel.js and Typescript.~~
+4. Css styles loading.
+5. Pixi.js.
+6. ESLint.
+7. Unit tests?
 
 Gameplay milestones:
 1. Display player sprite on the map.
