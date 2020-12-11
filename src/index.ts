@@ -1,10 +1,5 @@
+import * as PIXI from '../node_modules/pixi.js/pixi.js';
 import './styles.css';
 
-function component() {
-  const element = document.createElement('div');
-
-
-  return element;
-}
-
-document.body.appendChild(component());
+const app = new PIXI.Application();
+document.body.appendChild(app.view);
